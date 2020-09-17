@@ -1,9 +1,11 @@
 from io import RawIOBase
+from operator import index
 from types import coroutine
+from pandas.core.algorithms import rank
 import pysolr
 import urllib3
 import json
-import pandas as p
+import pandas as pd
 from query import Query
 
 
@@ -12,9 +14,9 @@ class solrClient(object):
     main class for performing search with solr through pysolr.
     internal variables:
         solr : type of pysolr.Solr. solr instance that connected to remote solr server.
-        results : search results dict of json format.
-            key: query of Query class.
-            value: related query results of json format.
+        results : search results dict.
+            key: ['qid', 'pid','passage','len_label','readability','rank'].
+            value: value for each key. 
 
     """
 
@@ -25,7 +27,14 @@ class solrClient(object):
         self.solr = pysolr.Solr(
             server_url + ':' + server_port + '/solr/' + server_core)
 
-        self.results = {}
+        self.results = {
+            'qid': [],
+            'pid': [],
+            'passage': [],
+            'len_label': [],
+            'readability': [],
+            'rank': [],
+        }
 
     def search(self, query, rows):
         """
@@ -38,48 +47,38 @@ class solrClient(object):
         """
         return self.solr.search(query.get_query_string(), **{"rows": rows})
 
-    def encode_results(self, results):
+    def preserve_results(self, query, results):
         """
-        encode search results into json format.
+        preserve search results into self.results.
         parameter:
+            query : query for search.
             results : search results of type of pysolr.Result class.
-        return:
-            encoded results of json format.
         """
-        encoded_results = []
+        qid = query.query['qid']
+        rank = 1
         for result in results:
-            r = {
-                'pid': result['pid'],
-                'contents': result['contents'],
-                'len_label': result['len_label'],
-                'readability': result['readability']
-            }
-            encoded_result = json.dumps(r)
-            encoded_results.append(encoded_result)
-        return encoded_results
+            self.results['qid'].append(qid)
+            self.results['pid'].append(result['pid'][0])
+            self.results['passage'].append(result['contents'][0])
+            self.results['len_label'].append(result['len_label'][0])
+            self.results['readability'].append(result['readability'])
+            self.results['rank'].append(rank)
+            rank += 1
 
     def get_results(self, query):
         """
-        perform search using pysolr.Solr and preserve results of json format into self.results dict.
+        perform search using pysolr.Solr and preserve results self.results dict.
         parameter:
             query : query of Query class.
-        return:
-            results dict of perserved search results.
 
         """
         results = self.search(query, 1000)
-        r = self.encode_results(results)
-        self.results[query] = r
+        self.preserve_results(query, results)
+        print('search query {0}'.format(query.query['qid']))
         print("found {0} result(s)".format(results.hits))
-        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-        print("top 10 of found results:")
-        top10_results = self.encode_results(self.search(query, 10))
-
-        for r in top10_results:
-            print(f"query : {query.get_encoded_query()}")
-            print(r)
-        return self.results
+        print("-------------------------------------------------")
 
     def export_results(self):
-        # TO DO://export perserved results into local file.
-        pass
+        # export perserved results into local file.
+        rs = pd.DataFrame(self.results)
+        rs.to_csv('./data/result.csv', index=False)
