@@ -78,7 +78,7 @@ class solrClient(object):
         print("found {0} result(s)".format(results.hits))
         print("-------------------------------------------------")
 
-    def export_results(self):
+    def export_results(self, path):
         # export perserved results into local file.
         rs = pd.DataFrame(self.results)
-        rs.to_csv('./data/result.csv', index=False)
+        rs.to_csv(path, index=False)
