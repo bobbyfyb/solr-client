@@ -55,6 +55,14 @@ class solrClient(object):
             results : search results of type of pysolr.Result class.
         """
         qid = query.query['qid']
+        if results.hits == 0:
+            self.results['qid'].append(qid)
+            self.results['pid'].append("Null")
+            self.results['passage'].append("Null")
+            self.results['len_label'].append("Null")
+            self.results['readability'].append("Null")
+            self.results['rank'].append("Null")
+        
         rank = 1
         for result in results:
             self.results['qid'].append(qid)
