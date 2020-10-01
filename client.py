@@ -59,8 +59,10 @@ class solrClient(object):
             self.results['qid'].append(qid)
             self.results['pid'].append("Null")
             self.results['passage'].append("Null")
-            self.results['len_label'].append("Null")
-            self.results['readability'].append("Null")
+            #self.results['len_label'].append("Null")
+            #self.results['readability'].append("Null")
+            self.results['len_label'].append(query.query['len_label'])
+            self.results['readability'].append(query.query['readability'])
             self.results['rank'].append("Null")
         
         rank = 1

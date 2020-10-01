@@ -14,7 +14,7 @@ def removePunctuation(text):
 querys = []
 
 data_path = '~/playground/projects/fangyubo/pyserini/collections/querys/'
-result_path = '~/playground/projects/fangyubo/pyserini/runs/results/'
+result_path = '~/playground/projects/fangyubo/pyserini/runs/results_v2/'
 n = 10
             
 for i in range(n):
