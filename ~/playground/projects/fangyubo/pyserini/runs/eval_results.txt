@@ -1,0 +1,2560 @@
+2	long	very diffcult
+2	long	very diffcult
+2	long	very diffcult
+2	long	diffcult
+2	long	diffcult
+2	long	very diffcult
+2	long	very diffcult
+2	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+2	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+2	long	very diffcult
+2	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+2	long	extremely diffcult
+2	long	fairly diffcult
+2	short	very diffcult
+2	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+2	short	extremely diffcult
+2	short	fairly diffcult
+2	equal	very diffcult
+2	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+2	equal	extremely diffcult
+2	equal	fairly diffcult
+1048585	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	long	fairly diffcult
+1048585	long	fairly easy
+1048585	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	short	fairly diffcult
+1048585	short	fairly easy
+1048585	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048585	equal	fairly diffcult
+1048585	equal	fairly easy
+458771	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	equal	fairly easy
+458771	equal	fairly diffcult
+458771	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	short	fairly easy
+458771	short	fairly diffcult
+458771	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458771	long	fairly easy
+458771	long	fairly diffcult
+163860	equal	very easy
+163860	equal	fairly easy
+163860	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	equal	fairly diffcult
+163860	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	short	very easy
+163860	short	fairly easy
+163860	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	short	fairly diffcult
+163860	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	long	very easy
+163860	long	fairly easy
+163860	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+163860	long	fairly diffcult
+163860	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	equal	fairly easy
+458774	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	short	fairly easy
+458774	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458774	long	fairly easy
+917536	equal	very diffcult
+917536	equal	fairly easy
+917536	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	equal	fairly diffcult
+917536	short	very diffcult
+917536	short	fairly easy
+917536	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	short	fairly diffcult
+917536	long	very diffcult
+917536	long	fairly easy
+917536	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917536	long	fairly diffcult
+524332	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	equal	fairly diffcult
+524332	equal	very diffcult
+524332	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	short	fairly diffcult
+524332	short	very diffcult
+524332	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524332	long	fairly diffcult
+524332	long	very diffcult
+786477	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786477	long	fairly diffcult
+786477	long	very diffcult
+786477	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786477	short	fairly diffcult
+786477	short	very diffcult
+786477	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786477	equal	fairly diffcult
+786477	equal	very diffcult
+65583	long	fairly easy
+65583	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	long	fairly diffcult
+65583	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	short	fairly easy
+65583	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	short	fairly diffcult
+65583	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	equal	fairly easy
+65583	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65583	equal	fairly diffcult
+65583	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	equal	very diffcult
+65584	equal	fairly easy
+65584	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	equal	fairly diffcult
+65584	equal	extremely diffcult
+65584	short	very diffcult
+65584	short	fairly easy
+65584	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	short	fairly diffcult
+65584	short	extremely diffcult
+65584	long	very diffcult
+65584	long	fairly easy
+65584	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65584	long	fairly diffcult
+65584	long	extremely diffcult
+393268	long	very diffcult
+393268	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	long	extremely diffcult
+393268	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	short	very diffcult
+393268	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	short	extremely diffcult
+393268	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	equal	very diffcult
+393268	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393268	equal	extremely diffcult
+393268	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+491585	long	very diffcult
+491585	long	fairly easy
+491585	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+491585	long	fairly diffcult
+491585	long	extremely diffcult
+491585	equal	very diffcult
+491585	equal	fairly easy
+491585	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+491585	equal	fairly diffcult
+491585	equal	extremely diffcult
+1048642	equal	very diffcult
+1048642	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	equal	fairly diffcult
+1048642	equal	extremely diffcult
+1048642	short	very diffcult
+1048642	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	short	fairly diffcult
+1048642	short	extremely diffcult
+1048642	long	very diffcult
+1048642	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048642	long	fairly diffcult
+1048642	long	extremely diffcult
+622658	long	fairly easy
+622658	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622658	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622658	long	fairly diffcult
+622658	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+622658	equal	fairly easy
+622658	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622658	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622658	equal	fairly diffcult
+622658	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	long	fairly diffcult
+852037	long	extremely diffcult
+852037	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	short	fairly diffcult
+852037	short	extremely diffcult
+852037	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852037	equal	fairly diffcult
+852037	equal	extremely diffcult
+327750	equal	very easy
+327750	equal	fairly easy
+327750	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+327750	equal	fairly diffcult
+327750	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+327750	short	very easy
+327750	short	fairly easy
+327750	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+327750	short	fairly diffcult
+327750	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+327750	long	very easy
+327750	long	fairly easy
+327750	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+327750	long	fairly diffcult
+327750	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	equal	very easy
+163912	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	equal	fairly easy
+163912	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	short	very easy
+163912	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	short	fairly easy
+163912	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	long	very easy
+163912	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+163912	long	fairly easy
+589903	equal	very diffcult
+589903	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	equal	fairly diffcult
+589903	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	short	very diffcult
+589903	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	short	fairly diffcult
+589903	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	long	very diffcult
+589903	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+589903	long	fairly diffcult
+589903	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	long	fairly easy
+950355	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	long	fairly diffcult
+950355	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	short	fairly easy
+950355	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	short	fairly diffcult
+950355	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	equal	fairly easy
+950355	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+950355	equal	fairly diffcult
+950355	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	equal	very easy
+262232	equal	fairly easy
+262232	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	equal	fairly diffcult
+262232	equal	extremely diffcult
+262232	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	short	very easy
+262232	short	fairly easy
+262232	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	short	fairly diffcult
+262232	short	extremely diffcult
+262232	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	long	very easy
+262232	long	fairly easy
+262232	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+262232	long	fairly diffcult
+262232	long	extremely diffcult
+262232	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	long	fairly easy
+786520	long	fairly diffcult
+786520	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	short	fairly easy
+786520	short	fairly diffcult
+786520	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786520	equal	fairly easy
+786520	equal	fairly diffcult
+688218	long	very easy
+688218	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	long	fairly easy
+688218	short	very easy
+688218	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	short	fairly easy
+688218	equal	very easy
+688218	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+688218	equal	fairly easy
+65627	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65627	long	very diffcult
+65627	long	fairly diffcult
+65627	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65627	short	very diffcult
+65627	short	fairly diffcult
+65627	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65627	equal	very diffcult
+65627	equal	fairly diffcult
+557157	long	very diffcult
+557157	long	fairly easy
+557157	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	long	fairly diffcult
+557157	short	very diffcult
+557157	short	fairly easy
+557157	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	short	fairly diffcult
+557157	equal	very diffcult
+557157	equal	fairly easy
+557157	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557157	equal	fairly diffcult
+196720	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	long	fairly easy
+196720	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	short	fairly easy
+196720	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196720	equal	fairly easy
+622725	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	equal	fairly easy
+622725	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	short	fairly easy
+622725	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622725	long	fairly easy
+884870	equal	fairly easy
+884870	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	equal	fairly diffcult
+884870	equal	extremely diffcult
+884870	short	fairly easy
+884870	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	short	fairly diffcult
+884870	short	extremely diffcult
+884870	long	fairly easy
+884870	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884870	long	fairly diffcult
+884870	long	extremely diffcult
+458885	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	equal	very diffcult
+458885	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	short	very diffcult
+458885	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+458885	long	very diffcult
+262280	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+262280	short	very easy
+262280	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+262280	short	fairly easy
+262280	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+262280	long	very easy
+262280	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+262280	long	fairly easy
+622734	equal	very diffcult
+622734	equal	fairly easy
+622734	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622734	equal	fairly diffcult
+622734	equal	extremely diffcult
+622734	short	very diffcult
+622734	short	fairly easy
+622734	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622734	short	fairly diffcult
+622734	short	extremely diffcult
+622734	long	very diffcult
+622734	long	fairly easy
+622734	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622734	long	fairly diffcult
+622734	long	extremely diffcult
+884878	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	equal	fairly diffcult
+884878	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	short	fairly diffcult
+884878	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+884878	long	fairly diffcult
+524447	equal	very diffcult
+524447	equal	fairly easy
+524447	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524447	equal	fairly diffcult
+524447	equal	extremely diffcult
+524447	short	very diffcult
+524447	short	fairly easy
+524447	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524447	short	fairly diffcult
+524447	short	extremely diffcult
+524447	long	very diffcult
+524447	long	fairly easy
+524447	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524447	long	fairly diffcult
+524447	long	extremely diffcult
+393420	long	very diffcult
+393420	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	long	fairly diffcult
+393420	long	extremely diffcult
+393420	short	very diffcult
+393420	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	short	fairly diffcult
+393420	short	extremely diffcult
+393420	equal	very diffcult
+393420	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393420	equal	fairly diffcult
+393420	equal	extremely diffcult
+1016013	equal	extremely diffcult
+1016013	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016013	equal	very diffcult
+1016013	short	extremely diffcult
+1016013	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016013	short	very diffcult
+1016013	long	extremely diffcult
+1016013	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016013	long	very diffcult
+1016015	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016015	equal	fairly easy
+1016015	equal	fairly diffcult
+1016015	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016015	short	fairly easy
+1016015	short	fairly diffcult
+1016015	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016015	long	fairly easy
+1016015	long	fairly diffcult
+852179	equal	fairly easy
+852179	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	equal	fairly diffcult
+852179	equal	extremely diffcult
+852179	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	short	fairly easy
+852179	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	short	fairly diffcult
+852179	short	extremely diffcult
+852179	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	long	fairly easy
+852179	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+852179	long	fairly diffcult
+852179	long	extremely diffcult
+852179	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	long	fairly easy
+295135	long	fairly diffcult
+295135	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	short	fairly easy
+295135	short	fairly diffcult
+295135	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+295135	equal	fairly easy
+295135	equal	fairly diffcult
+1081569	equal	very diffcult
+1081569	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	equal	fairly diffcult
+1081569	equal	extremely diffcult
+1081569	short	very diffcult
+1081569	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	short	fairly diffcult
+1081569	short	extremely diffcult
+1081569	long	very diffcult
+1081569	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081569	long	fairly diffcult
+1081569	long	extremely diffcult
+426214	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	long	fairly diffcult
+426214	long	extremely diffcult
+426214	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	short	fairly diffcult
+426214	short	extremely diffcult
+426214	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426214	equal	fairly diffcult
+426214	equal	extremely diffcult
+65770	long	very easy
+65770	long	very diffcult
+65770	long	fairly easy
+65770	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65770	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65770	long	fairly diffcult
+65770	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+65770	equal	very easy
+65770	equal	very diffcult
+65770	equal	fairly easy
+65770	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65770	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65770	equal	fairly diffcult
+65770	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	long	very diffcult
+786674	long	fairly easy
+786674	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	long	fairly diffcult
+786674	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	short	very diffcult
+786674	short	fairly easy
+786674	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	short	fairly diffcult
+786674	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	equal	very diffcult
+786674	equal	fairly easy
+786674	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	equal	fairly diffcult
+786674	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786674	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	long	fairly easy
+393462	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	long	fairly diffcult
+393462	long	extremely diffcult
+393462	short	fairly easy
+393462	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	short	fairly diffcult
+393462	short	extremely diffcult
+393462	equal	fairly easy
+393462	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393462	equal	fairly diffcult
+393462	equal	extremely diffcult
+1081595	equal	extremely diffcult
+1081595	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081595	equal	very diffcult
+1081595	short	extremely diffcult
+1081595	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081595	short	very diffcult
+1081595	long	extremely diffcult
+1081595	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081595	long	very diffcult
+983299	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	equal	fairly easy
+983299	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	short	fairly easy
+983299	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983299	long	fairly easy
+1081609	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081609	equal	fairly diffcult
+1081609	equal	fairly easy
+1081609	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081609	short	fairly diffcult
+1081609	short	fairly easy
+1081609	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081609	long	fairly diffcult
+1081609	long	fairly easy
+917789	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	equal	fairly diffcult
+917789	equal	fairly easy
+917789	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	short	fairly diffcult
+917789	short	fairly easy
+917789	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917789	long	fairly diffcult
+917789	long	fairly easy
+1048876	long	very diffcult
+1048876	long	fairly easy
+1048876	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	short	very diffcult
+1048876	short	fairly easy
+1048876	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	equal	very diffcult
+1048876	equal	fairly easy
+1048876	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048876	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	long	very diffcult
+622893	long	fairly easy
+622893	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	long	fairly diffcult
+622893	short	very diffcult
+622893	short	fairly easy
+622893	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	short	fairly diffcult
+622893	equal	very diffcult
+622893	equal	fairly easy
+622893	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+622893	equal	fairly diffcult
+917825	equal	fairly easy
+917825	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	equal	fairly diffcult
+917825	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	short	fairly easy
+917825	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	short	fairly diffcult
+917825	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	long	fairly easy
+917825	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+917825	long	fairly diffcult
+917825	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048917	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048917	equal	very diffcult
+1048917	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048917	short	very diffcult
+1048917	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048917	long	very diffcult
+196949	long	very easy
+196949	long	fairly easy
+196949	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196949	long	fairly diffcult
+196949	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196949	short	very easy
+196949	short	fairly easy
+196949	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196949	short	fairly diffcult
+196949	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196949	equal	very easy
+196949	equal	fairly easy
+196949	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196949	equal	fairly diffcult
+196949	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+557401	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557401	long	fairly easy
+557401	long	very diffcult
+557401	long	fairly diffcult
+557401	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557401	short	fairly easy
+557401	short	very diffcult
+557401	short	fairly diffcult
+557401	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557401	equal	fairly easy
+557401	equal	very diffcult
+557401	equal	fairly diffcult
+885081	equal	very diffcult
+885081	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885081	equal	fairly diffcult
+885081	equal	extremely diffcult
+885081	short	very diffcult
+885081	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885081	short	fairly diffcult
+885081	short	extremely diffcult
+885081	long	very diffcult
+885081	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885081	long	fairly diffcult
+885081	long	extremely diffcult
+1016154	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016154	long	fairly easy
+1016154	long	fairly diffcult
+1016154	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016154	short	fairly easy
+1016154	short	fairly diffcult
+1016154	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016154	equal	fairly easy
+1016154	equal	fairly diffcult
+786786	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	long	fairly diffcult
+786786	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	short	fairly diffcult
+786786	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786786	equal	fairly diffcult
+196963	equal	fairly easy
+196963	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	equal	fairly diffcult
+196963	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	short	fairly easy
+196963	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	short	fairly diffcult
+196963	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	long	fairly easy
+196963	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+196963	long	fairly diffcult
+196963	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	equal	fairly diffcult
+557417	equal	fairly easy
+557417	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	short	fairly diffcult
+557417	short	fairly easy
+557417	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557417	long	fairly diffcult
+557417	long	fairly easy
+426347	long	fairly easy
+426347	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	long	fairly diffcult
+426347	long	extremely diffcult
+426347	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	short	fairly easy
+426347	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	short	fairly diffcult
+426347	short	extremely diffcult
+426347	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	equal	fairly easy
+426347	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426347	equal	fairly diffcult
+426347	equal	extremely diffcult
+426347	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	long	very easy
+98682	long	fairly easy
+98682	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	long	fairly diffcult
+98682	short	very easy
+98682	short	fairly easy
+98682	short	plain
+#####################
+MRR @10: 0.0
+
+98682	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	short	fairly diffcult
+98682	equal	very easy
+98682	equal	fairly easy
+98682	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+98682	equal	fairly diffcult
+1081730	equal	very diffcult
+1081730	equal	fairly easy
+1081730	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	equal	fairly diffcult
+1081730	short	very diffcult
+1081730	short	fairly easy
+1081730	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	short	fairly diffcult
+1081730	long	very diffcult
+1081730	long	fairly easy
+1081730	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1081730	long	fairly diffcult
+328072	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	long	fairly easy
+328072	long	fairly diffcult
+328072	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	short	fairly easy
+328072	short	fairly diffcult
+328072	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+328072	equal	fairly easy
+328072	equal	fairly diffcult
+983438	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983438	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	long	fairly diffcult
+524699	long	fairly easy
+524699	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	short	fairly diffcult
+524699	short	fairly easy
+524699	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524699	equal	fairly diffcult
+524699	equal	fairly easy
+983451	equal	extremely diffcult
+983451	equal	very easy
+983451	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983451	equal	very diffcult
+983451	short	extremely diffcult
+983451	short	very easy
+983451	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983451	short	very diffcult
+983451	long	extremely diffcult
+983451	long	very easy
+983451	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983451	long	very diffcult
+197024	equal	very diffcult
+197024	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+197024	equal	diffcult
+197024	equal	fairly diffcult
+197024	equal	extremely diffcult
+197024	short	very diffcult
+197024	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+197024	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+197024	short	fairly diffcult
+197024	short	extremely diffcult
+197024	long	very diffcult
+197024	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+197024	long	diffcult
+197024	long	fairly diffcult
+197024	long	extremely diffcult
+885153	long	very easy
+885153	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	long	fairly diffcult
+885153	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	short	very easy
+885153	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	short	fairly diffcult
+885153	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	equal	very easy
+885153	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	equal	fairly diffcult
+885153	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885153	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+819618	long	very diffcult
+819618	long	fairly easy
+819618	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+819618	long	fairly diffcult
+819618	long	extremely diffcult
+819618	short	very diffcult
+819618	short	fairly easy
+819618	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+819618	short	fairly diffcult
+819618	short	extremely diffcult
+819618	equal	very diffcult
+819618	equal	fairly easy
+819618	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+819618	equal	fairly diffcult
+819618	equal	extremely diffcult
+1048995	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	long	very diffcult
+1048995	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	short	very diffcult
+1048995	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1048995	equal	very diffcult
+65957	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	long	fairly easy
+65957	long	fairly diffcult
+65957	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	short	fairly easy
+65957	short	fairly diffcult
+65957	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+65957	equal	fairly easy
+65957	equal	fairly diffcult
+786857	short	very diffcult
+786857	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786857	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786857	short	fairly diffcult
+786857	short	extremely diffcult
+786857	equal	very diffcult
+786857	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+786857	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786857	equal	fairly diffcult
+786857	equal	extremely diffcult
+524722	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524722	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524722	long	extremely diffcult
+524722	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+524722	equal	diffcult
+MRR @10: 0.00014326647564469913
+QueriesRanked: 1
+
+524722	equal	extremely diffcult
+557492	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	long	fairly diffcult
+557492	long	fairly easy
+557492	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	short	fairly diffcult
+557492	short	fairly easy
+557492	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+557492	equal	fairly diffcult
+557492	equal	fairly easy
+164282	equal	extremely diffcult
+164282	equal	very diffcult
+164282	short	extremely diffcult
+164282	short	very diffcult
+164282	long	extremely diffcult
+164282	long	very diffcult
+524733	equal	extremely diffcult
+524733	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524733	equal	very diffcult
+524733	equal	fairly diffcult
+524733	short	extremely diffcult
+524733	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524733	short	very diffcult
+524733	short	fairly diffcult
+524733	long	extremely diffcult
+524733	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+524733	long	very diffcult
+524733	long	fairly diffcult
+1016254	long	very easy
+1016254	long	fairly easy
+1016254	long	fairly diffcult
+1016254	long	extremely diffcult
+1016254	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016254	short	very easy
+1016254	short	fairly easy
+1016254	short	fairly diffcult
+1016254	short	extremely diffcult
+1016254	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016254	equal	very easy
+1016254	equal	fairly easy
+1016254	equal	fairly diffcult
+1016254	equal	extremely diffcult
+1016254	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	equal	very easy
+885184	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	equal	fairly diffcult
+885184	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	short	very easy
+885184	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	short	fairly diffcult
+885184	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	long	very easy
+885184	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+885184	long	fairly diffcult
+885184	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	long	fairly diffcult
+754113	long	fairly easy
+754113	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	short	fairly diffcult
+754113	short	fairly easy
+754113	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754113	equal	fairly diffcult
+754113	equal	fairly easy
+426442	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	equal	fairly diffcult
+426442	equal	fairly easy
+426442	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	short	fairly diffcult
+426442	short	fairly easy
+426442	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+426442	long	fairly diffcult
+426442	long	fairly easy
+983499	equal	very diffcult
+983499	equal	fairly easy
+983499	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	short	very diffcult
+983499	short	fairly easy
+983499	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	long	very diffcult
+983499	long	fairly easy
+983499	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983499	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	equal	fairly easy
+1016281	equal	fairly diffcult
+1016281	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	short	fairly easy
+1016281	short	fairly diffcult
+1016281	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+1016281	long	fairly easy
+1016281	long	fairly diffcult
+393696	equal	very diffcult
+393696	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	equal	fairly diffcult
+393696	equal	extremely diffcult
+393696	short	very diffcult
+393696	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	short	fairly diffcult
+393696	short	extremely diffcult
+393696	long	very diffcult
+393696	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+393696	long	fairly diffcult
+393696	long	extremely diffcult
+786918	long	extremely diffcult
+786918	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786918	long	very diffcult
+786918	long	fairly diffcult
+786918	short	extremely diffcult
+786918	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786918	short	very diffcult
+786918	short	fairly diffcult
+786918	equal	extremely diffcult
+786918	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+786918	equal	very diffcult
+786918	equal	fairly diffcult
+295406	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295406	long	fairly diffcult
+295406	long	fairly easy
+295406	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295406	short	fairly diffcult
+295406	short	fairly easy
+295406	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+295406	equal	fairly diffcult
+295406	equal	fairly easy
+754166	equal	very diffcult
+754166	equal	fairly easy
+754166	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	equal	fairly diffcult
+754166	short	very diffcult
+754166	short	fairly easy
+754166	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	short	fairly diffcult
+754166	long	very diffcult
+754166	long	fairly easy
+754166	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+754166	long	fairly diffcult
+983543	long	very diffcult
+983543	long	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	long	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	long	fairly diffcult
+983543	long	extremely diffcult
+983543	long	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	short	very diffcult
+983543	short	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	short	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	short	fairly diffcult
+983543	short	extremely diffcult
+983543	short	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	equal	very diffcult
+983543	equal	plain
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	equal	diffcult
+MRR @10: 0.0
+QueriesRanked: 1
+
+983543	equal	fairly diffcult
+983543	equal	extremely diffcult
+983543	equal	easy
+MRR @10: 0.0
+QueriesRanked: 1
+
