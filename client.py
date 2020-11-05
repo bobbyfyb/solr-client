@@ -91,4 +91,4 @@ class solrClient(object):
     def export_results(self, path):
         # export perserved results into local file.
         rs = pd.DataFrame(self.results)
-        rs.to_csv(path, index=False)
+        rs.to_csv(path, mode='a',index=False)
